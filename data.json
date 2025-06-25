@@ -1,0 +1,4592 @@
+[
+  {
+    "KN #": "LE06615",
+    "Manufacturer": "Arizant Healthcare Inc A 3M Co",
+    "Model Number": 775,
+    "Serial Number": 143828,
+    "Description": "Warming Units, Patient, Forced-Air",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN96552",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139499,
+    "Description": "High Pressure Gas",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "LE06466",
+    "Manufacturer": "Coviden",
+    "Model Number": 29525,
+    "Serial Number": "V1829570SX",
+    "Description": "Kendall SCD 700 Series",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN116368",
+    "Manufacturer": "Dräger",
+    "Model Number": "8606000–68",
+    "Serial Number": "ASED-0262",
+    "Description": "Anesthesia Induction Cart",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN95050",
+    "Manufacturer": "Dräger",
+    "Model Number": "",
+    "Serial Number": "",
+    "Description": "Anesthesia Workstation",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "LE06603",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Isoflurane Vaporizer",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "LE06605",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Anesthesia Workstation Isoflurane Vaporizer",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN134712",
+    "Manufacturer": "EIZO",
+    "Model Number": "Unknown",
+    "Serial Number": "20182078B",
+    "Description": "Image stream Monitor",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN134713",
+    "Manufacturer": "EIZO",
+    "Model Number": "Unknown",
+    "Serial Number": "20191078B",
+    "Description": "Image stream Monitor",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN93677",
+    "Manufacturer": "Erbe",
+    "Model Number": "VIO 300 D // VIO 300 D",
+    "Serial Number": 11293435,
+    "Description": "Electrosurgical Units, Monopolar/Bipolar",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN134794",
+    "Manufacturer": "Image Stream",
+    "Model Number": "Easysuite 4K",
+    "Serial Number": "FLX-200209",
+    "Description": "Image Stream System",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN95698",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": 20133120,
+    "Serial Number": "DB0642428",
+    "Description": "Light Sources",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN96982",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": "TC200",
+    "Serial Number": "PT746875-P",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN96986",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": "TC300",
+    "Serial Number": "RT747973-P",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN134220",
+    "Manufacturer": "Phillips",
+    "Model Number": "MX800",
+    "Serial Number": "",
+    "Description": "Patient monitor",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN134228",
+    "Manufacturer": "Phillips",
+    "Model Number": 866064,
+    "Serial Number": "DE351B5973",
+    "Description": "IntelliVue MX500",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN134834",
+    "Manufacturer": "Phillips",
+    "Model Number": 867030,
+    "Serial Number": "DE694E3791",
+    "Description": "Patient Monitor",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN151472",
+    "Manufacturer": "Phillips",
+    "Model Number": 867030,
+    "Serial Number": "DE694G2701",
+    "Description": "Patient Monitor",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN96235",
+    "Manufacturer": "Steris",
+    "Model Number": "QDJ06",
+    "Serial Number": "0413308060",
+    "Description": "Warming cabinet",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN137192",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0620-050-000 // Pneumoclear",
+    "Serial Number": "2202CE0357",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN137163",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1688010000 // 1688 AIM",
+    "Serial Number": "22H544144",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN96482",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "220-210-000 // L9000",
+    "Serial Number": "12F039794",
+    "Description": "Light Sources",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN137179",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "L11 // 0220230300",
+    "Serial Number": "22H517814",
+    "Description": "Light Sources",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN134688",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "SV3120V",
+    "Serial Number": "090754",
+    "Description": "Smoke Evacuation Systems, Surgical",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "KN134596",
+    "Manufacturer": "Valleylab Covidien Div Covidien (US)",
+    "Model Number": "FX8 // FX8",
+    "Serial Number": "F9I12447KX",
+    "Description": "Electrosurgical Units, Monopolar/Bipolar",
+    "Location": "OR1",
+    "Location Sort": 1
+  },
+  {
+    "KN #": "LE06616",
+    "Manufacturer": "Arizant Healthcare Inc A 3M Co",
+    "Model Number": 775,
+    "Serial Number": 10565,
+    "Description": "Warming Units, Patient, Forced-Air",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN134692",
+    "Manufacturer": "Buffalo Filter LLC A CONMED Corp Co",
+    "Model Number": "ViroVac",
+    "Serial Number": 20210004,
+    "Description": "Smoke Evacuation Systems, Surgical",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN93653",
+    "Manufacturer": "Carl Zeiss Inc Microscopy & Imaging Systems",
+    "Model Number": "OPMI PICO // Microscope, Light, Operating",
+    "Serial Number": 6627103362,
+    "Description": "Microscopes, Light, Operating",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN115586",
+    "Manufacturer": "Dräger",
+    "Model Number": "8606000–68",
+    "Serial Number": "ASCD-0261",
+    "Description": "Anesthesia Induction cart",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN134229",
+    "Manufacturer": "Dräger",
+    "Model Number": 866064,
+    "Serial Number": "DE351B5974",
+    "Description": "IntelliVue MX500",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN95045",
+    "Manufacturer": "Dräger",
+    "Model Number": "",
+    "Serial Number": "",
+    "Description": "Anesthesia Workstation",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "LE06601",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Anesthesia cart isoflurane vaporizer",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "LE06606",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Isoflurane Vaporizer",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN134975",
+    "Manufacturer": "Image Stream",
+    "Model Number": "Easysuite 4K",
+    "Serial Number": "FLX-200029",
+    "Description": "Image Stream System",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN95696",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": 20133120,
+    "Serial Number": "DB0642632",
+    "Description": "Light Sources",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN96981",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": "TC200",
+    "Serial Number": "PT746849-P",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN96984",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": "TC300",
+    "Serial Number": "RT7479756-P",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN95814",
+    "Manufacturer": "Leica Inc",
+    "Model Number": "OH4",
+    "Serial Number": "0H4-22938",
+    "Description": "Microscopes, Light, Operating",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN134710",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "004KCNLL0527",
+    "Description": "Monitors, Video",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN134711",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "004KCHEMV945",
+    "Description": "Monitors, Video",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN134221",
+    "Manufacturer": "Phillips",
+    "Model Number": 865240,
+    "Serial Number": "DE50868720",
+    "Description": "IntelliVue MX800",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN134756",
+    "Manufacturer": "Phillips",
+    "Model Number": 867030,
+    "Serial Number": "DE694E4046",
+    "Description": "Patient Monitor",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN134884",
+    "Manufacturer": "Phillips",
+    "Model Number": 867030,
+    "Serial Number": "DE694E4092",
+    "Description": "Patient Monitor",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN96236",
+    "Manufacturer": "Steris",
+    "Model Number": "QDJ06",
+    "Serial Number": "0412908084",
+    "Description": "Warming Cabinet",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN137191",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0620-050-000 // Pneumoclear",
+    "Serial Number": "2202CE0359",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN137162",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1688010000 // 1688 AIM",
+    "Serial Number": "22H572024",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN137177",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "L11 // 0220230300",
+    "Serial Number": "22H529674",
+    "Description": "Light Sources",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN134709",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "SV3120V",
+    "Serial Number": 20140002,
+    "Description": "Smoke Evacuation Systems, Surgical",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "KN134598",
+    "Manufacturer": "Valleylab Covidien Div Covidien (US)",
+    "Model Number": "FX8 // FX8",
+    "Serial Number": "F9I12468KX",
+    "Description": "Electrosurgical Units, Monopolar/Bipolar",
+    "Location": "OR2",
+    "Location Sort": 2
+  },
+  {
+    "KN #": "LE06622",
+    "Manufacturer": "Arizant Healthcare Inc A 3M Co",
+    "Model Number": 775,
+    "Serial Number": 10579,
+    "Description": "Warming Units, Patient, Forced-Air",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN93650",
+    "Manufacturer": "Carl Zeiss Inc Microscopy & Imaging Systems",
+    "Model Number": "OPMI PICO // Microscope, Light, Operating",
+    "Serial Number": 6627103360,
+    "Description": "Microscopes, Light, Operating",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN116360",
+    "Manufacturer": "Dräger",
+    "Model Number": "8606000–68",
+    "Serial Number": "",
+    "Description": "Anesthesia Induction cart",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN124552",
+    "Manufacturer": "Dräger",
+    "Model Number": "8607000–58",
+    "Serial Number": "ASFC–0206",
+    "Description": "Anesthesia Workstation",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN134796",
+    "Manufacturer": "Image Stream",
+    "Model Number": "Easysuite 4K",
+    "Serial Number": "FLX-200041",
+    "Description": "Image Stream System",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN95739",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": 20133120,
+    "Serial Number": "DB0642419",
+    "Description": "Light Sources",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN96978",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": "TC200",
+    "Serial Number": "PT746871",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN96983",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": "TC300",
+    "Serial Number": "RT747978-P",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN134943",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "004KCBDMV893",
+    "Description": "Monitors, Video",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN134944",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "004KC5FMV902",
+    "Description": "Monitors, Video",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN134230",
+    "Manufacturer": "Philips",
+    "Model Number": 866064,
+    "Serial Number": "DE351B5975",
+    "Description": "IntelliVue MX500",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN134771",
+    "Manufacturer": "Phillips",
+    "Model Number": 867030,
+    "Serial Number": "DE694E4020",
+    "Description": "Patient Monitor",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN134791",
+    "Manufacturer": "Phillips",
+    "Model Number": 867030,
+    "Serial Number": "DE694E3835",
+    "Description": "Patient Monitor",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN96242",
+    "Manufacturer": "Steris",
+    "Model Number": "QDJ06",
+    "Serial Number": "0412908083",
+    "Description": "Warming cabinet",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN96991",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0450000000 // CrossFlow",
+    "Serial Number": null,
+    "Description": "Irrigation/Distention Systems, Arthroscopic",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN137185",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0620-050-000 // Pneumoclear",
+    "Serial Number": "2202CE0361",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN137170",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1688010000 // 1688 AIM",
+    "Serial Number": "22H544044",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN153013",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "5400-052-000 // Core 2 Console",
+    "Serial Number": 2007700319,
+    "Description": "Power Systems, Electromechanical, Surgery",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN137182",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "L11 // 0220230300",
+    "Serial Number": "22H573244",
+    "Description": "Light Sources",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN134946",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "SV3120V",
+    "Serial Number": "090778",
+    "Description": "Smoke Evacuation Systems, Surgical",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "KN134594",
+    "Manufacturer": "Valleylab Covidien Div Covidien (US)",
+    "Model Number": "FX8 // FX8",
+    "Serial Number": "F9I12444KX",
+    "Description": "Electrosurgical Units, Monopolar/Bipolar",
+    "Location": "OR3",
+    "Location Sort": 3
+  },
+  {
+    "KN #": "LE06619",
+    "Manufacturer": "Arizant Healthcare Inc A 3M Co",
+    "Model Number": 775,
+    "Serial Number": 10580,
+    "Description": "Warming Units, Patient, Forced-Air",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN96541",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139495,
+    "Description": "High Pressure Gas",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN137072",
+    "Manufacturer": "Buffalo Filter LLC A CONMED Corp Co",
+    "Model Number": "ViroVac",
+    "Serial Number": 21221765,
+    "Description": "Smoke Evacuation Systems, Surgical",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "LE06485",
+    "Manufacturer": "Coviden",
+    "Model Number": 29525,
+    "Serial Number": "V1830021SX",
+    "Description": "Kendall SCD 700 Series",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN116344",
+    "Manufacturer": "Dräger",
+    "Model Number": "8606000–68",
+    "Serial Number": "ASED–0259",
+    "Description": "Anesthesia Induction cart",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN145111",
+    "Manufacturer": "Dräger",
+    "Model Number": "M35500",
+    "Serial Number": "ASKF-0036",
+    "Description": "Desflurane Vaporizer",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN95046",
+    "Manufacturer": "Dräger",
+    "Model Number": "",
+    "Serial Number": "",
+    "Description": "Anesthesia Workstation",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "LE06592",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Isoflurane Vaporizer",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "LE06611",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Isoflurane Vaporizer",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "LE06611",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Isoflurane Vaporizer",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN134979",
+    "Manufacturer": "Image Stream",
+    "Model Number": "Easysuite 4K",
+    "Serial Number": "FLX-200042",
+    "Description": "Image Stream System",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN134977",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "004KCEAMV908",
+    "Description": "Monitors, Video",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN134978",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "004KCXMMV866",
+    "Description": "Monitors, Video",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN134223",
+    "Manufacturer": "Phillips",
+    "Model Number": 865240,
+    "Serial Number": "DE50868729",
+    "Description": "IntelliVue MX800",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN134231",
+    "Manufacturer": "Phillips",
+    "Model Number": 866064,
+    "Serial Number": "DE351B5976",
+    "Description": "IntelliVue MX500",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN134804",
+    "Manufacturer": "Phillips",
+    "Model Number": 867030,
+    "Serial Number": "DE69433860",
+    "Description": "Patient Monitor",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN134881",
+    "Manufacturer": "Phillips",
+    "Model Number": 867030,
+    "Serial Number": "DE694E3978",
+    "Description": "Patient Monitor",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN96241",
+    "Manufacturer": "Steris",
+    "Model Number": "QDJ06",
+    "Serial Number": "0412908089",
+    "Description": "Warming Cabinet",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN135015",
+    "Manufacturer": "Stryker",
+    "Model Number": "5400-052-000 // Core 2 Console",
+    "Serial Number": 2007700389,
+    "Description": "Power Systems, Electromechanical, Surgery",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN96990",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0450000000 // CrossFlow",
+    "Serial Number": null,
+    "Description": "Irrigation/Distention Systems, Arthroscopic",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN137188",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0620-050-000 // Pneumoclear",
+    "Serial Number": "2202CE0358",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN137166",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1688010000 // 1688 AIM",
+    "Serial Number": "22H544064",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN137180",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "L11 // 0220230300",
+    "Serial Number": "22H573264",
+    "Description": "Light Sources",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN134988",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "SV3120V",
+    "Serial Number": "090774",
+    "Description": "Smoke Evacuation Systems, Surgical",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "KN134600",
+    "Manufacturer": "Valleylab Covidien Div Covidien (US)",
+    "Model Number": "FX8 // FX8",
+    "Serial Number": "F9I12466KX",
+    "Description": "Electrosurgical Units, Monopolar/Bipolar",
+    "Location": "OR4",
+    "Location Sort": 4
+  },
+  {
+    "KN #": "LE06634",
+    "Manufacturer": "Arizant Healthcare Inc A 3M Co",
+    "Model Number": 775,
+    "Serial Number": 79501,
+    "Description": "Warming Units, Patient, Forced-Air",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN134693",
+    "Manufacturer": "Buffalo Filter LLC A CONMED Corp Co",
+    "Model Number": "ViroVac",
+    "Serial Number": 20210005,
+    "Description": "Smoke Evacuation Systems, Surgical",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "LE06344",
+    "Manufacturer": "Coviden",
+    "Model Number": 29525,
+    "Serial Number": "V1828613SX",
+    "Description": "Kendall SCD 700 Series",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN137087",
+    "Manufacturer": "De Soutter Medical USA Inc",
+    "Model Number": "CCS // Clean Cast System",
+    "Serial Number": 201800967,
+    "Description": "Cast Cutter Vacuums",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN115584",
+    "Manufacturer": "Dräger",
+    "Model Number": "8606000–68",
+    "Serial Number": "ASED-0256",
+    "Description": "Anesthesia Induction cart",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN124554",
+    "Manufacturer": "Dräger",
+    "Model Number": "8607000–58",
+    "Serial Number": "ASFC–0208",
+    "Description": "Anesthesia Workstation",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN134224",
+    "Manufacturer": "Dräger",
+    "Model Number": "8607000–58",
+    "Serial Number": "ASFC–0208",
+    "Description": "Anesthesia Workstation",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "LE06609",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Isoflurane Vaporizer",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "LE06629",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Isoflurane Vaporizer",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN134983",
+    "Manufacturer": "Imagestream",
+    "Model Number": "Easysuite 4K",
+    "Serial Number": "FLX-200043",
+    "Description": "Image Stream System",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN134980",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "004KCBDMV965",
+    "Description": "Monitors, Video",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN134981",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "004KCGWMV951",
+    "Description": "Monitors, Video",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN134982",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "004KCZPMV949",
+    "Description": "Monitors, Video",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN96498",
+    "Manufacturer": "Medical Solutions Inc",
+    "Model Number": "PL8N1",
+    "Serial Number": 1199,
+    "Description": "Warming Units, Blood/Intravenous Solution",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN134232",
+    "Manufacturer": "Phillips",
+    "Model Number": 866064,
+    "Serial Number": "DE351B5977",
+    "Description": "IntelliVue MX500",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN134742",
+    "Manufacturer": "Phillips",
+    "Model Number": 867030,
+    "Serial Number": "DE694E3968",
+    "Description": "Patient Monitor",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN134812",
+    "Manufacturer": "Phillips",
+    "Model Number": 867030,
+    "Serial Number": "DE694E3838",
+    "Description": "Patient Monitor",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN134462",
+    "Manufacturer": "Steris",
+    "Model Number": "QDJ06",
+    "Serial Number": "0427818021",
+    "Description": "Warming Cabinet",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN96989",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0450000000 // CrossFlow",
+    "Serial Number": null,
+    "Description": "Irrigation/Distention Systems, Arthroscopic",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN134563",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0475100000",
+    "Serial Number": "19J548014",
+    "Description": "Electrosurgical Units, Bipolar",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN137187",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0620-050-000 // Pneumoclear",
+    "Serial Number": "2202CE0362",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN137169",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1688010000 // 1688 AIM",
+    "Serial Number": "22H534044",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN153015",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "5400-052-000 // Core 2 Console",
+    "Serial Number": 2007700389,
+    "Description": "Power Systems, Electromechanical, Surgery",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN137175",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "L11 // 0220230300",
+    "Serial Number": "22H529534",
+    "Description": "Light Sources",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "KN134599",
+    "Manufacturer": "Valleylab Covidien Div Covidien (US)",
+    "Model Number": "FX8 // FX8",
+    "Serial Number": "F9I12445KX",
+    "Description": "Electrosurgical Units, Monopolar/Bipolar",
+    "Location": "OR5",
+    "Location Sort": 5
+  },
+  {
+    "KN #": "LE06633",
+    "Manufacturer": "Arizant Healthcare Inc A 3M Co",
+    "Model Number": 775,
+    "Serial Number": "057954",
+    "Description": "Warming Units, Patient, Forced-Air",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN137074",
+    "Manufacturer": "Buffalo Filter LLC A CONMED Corp Co",
+    "Model Number": "ViroVac",
+    "Serial Number": 21221766,
+    "Description": "Smoke Evacuation Systems, Surgical",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "LE06489",
+    "Manufacturer": "Coviden",
+    "Model Number": 29525,
+    "Serial Number": "V1829638SX",
+    "Description": "Kendall SCD 700 Series",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN116365",
+    "Manufacturer": "Dräger",
+    "Model Number": "8606000–68",
+    "Serial Number": "ASED-0257",
+    "Description": "Anesthesia Induction Cart",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN95048",
+    "Manufacturer": "Dräger",
+    "Model Number": "8607000–19",
+    "Serial Number": "ARZF-0031",
+    "Description": "Anesthesia Workstation",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "LE06582",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Isoflurane Vaporizer",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "LE06593",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Isoflurane Vaporizer",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN134987",
+    "Manufacturer": "Image Stream",
+    "Model Number": "Easysuite 4K",
+    "Serial Number": "FLX-200044",
+    "Description": "Image Stream System",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN134984",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "004KCLHMV856",
+    "Description": "Monitors, Video",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN134985",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "004KCFTMV867",
+    "Description": "Monitors, Video",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN134986",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "004KCLHMV928",
+    "Description": "Monitors, Video",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN133659",
+    "Manufacturer": "Medical Solutions Inc",
+    "Model Number": "PL8N1",
+    "Serial Number": 1166,
+    "Description": "Warming Units, Blood/Intravenous Solution",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN134227",
+    "Manufacturer": "Phillips",
+    "Model Number": 865240,
+    "Serial Number": "DE50868738",
+    "Description": "IntelliVue MX800",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN134233",
+    "Manufacturer": "Phillips",
+    "Model Number": 866064,
+    "Serial Number": "DE35185978",
+    "Description": "IntelliVue MX500",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN134802",
+    "Manufacturer": "Phillips",
+    "Model Number": 867030,
+    "Serial Number": "DE69483740",
+    "Description": "Patient Monitor",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN134842",
+    "Manufacturer": "Phillips",
+    "Model Number": 867030,
+    "Serial Number": "DE694E3915",
+    "Description": "Patient Monitor",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN96243",
+    "Manufacturer": "Steris",
+    "Model Number": "QDJ06",
+    "Serial Number": 412208036,
+    "Description": "Warming Cabinet",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN153003",
+    "Manufacturer": "Stryker",
+    "Model Number": "5400-052-000 // Core 2 Console",
+    "Serial Number": 2011300799,
+    "Description": "Power Systems, Electromechanical, Surgery",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN96992",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0450000000 // CrossFlow",
+    "Serial Number": null,
+    "Description": "Irrigation/Distention Systems, Arthroscopic",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN134561",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0475100000",
+    "Serial Number": "19J548004",
+    "Description": "Electrosurgical Units, Bipolar",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN137189",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0620-050-000 // Pneumoclear",
+    "Serial Number": "2202CE0363",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN137168",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1688010000 // 1688 AIM",
+    "Serial Number": "22H534064",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN137173",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "L11 // 0220230300",
+    "Serial Number": "22H529564",
+    "Description": "Light Sources",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN134595",
+    "Manufacturer": "Valleylab Covidien Div Covidien (US)",
+    "Model Number": "FX8 // FX8",
+    "Serial Number": "F9I12449KX",
+    "Description": "Electrosurgical Units, Monopolar/Bipolar",
+    "Location": "OR6",
+    "Location Sort": 6
+  },
+  {
+    "KN #": "KN96390",
+    "Manufacturer": "Air Techniques",
+    "Model Number": "N/a",
+    "Serial Number": "N/A",
+    "Description": "Scan-X Unit",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "LE06614",
+    "Manufacturer": "Arizant Healthcare Inc A 3M Co",
+    "Model Number": 775,
+    "Serial Number": 10561,
+    "Description": "Warming Units, Patient, Forced-Air",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN134695",
+    "Manufacturer": "Buffalo Filter LLC A CONMED Corp Co",
+    "Model Number": "ViroVac",
+    "Serial Number": 20210012,
+    "Description": "Smoke Evacuation Systems, Surgical",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN124555",
+    "Manufacturer": "Dräger",
+    "Model Number": "860700–58",
+    "Serial Number": "ASFC – 0205",
+    "Description": "Anesthesia Workstation",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN96317",
+    "Manufacturer": "Dräger",
+    "Model Number": "8606000–49",
+    "Serial Number": "ASBE-0035",
+    "Description": "Anesthesia induction cart",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "LE06631",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Isoflurane Vaporizer",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "LE06632",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Isoflurane Vaporizer",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "N/A",
+    "Manufacturer": "Imagestream",
+    "Model Number": "Easysuite 4K",
+    "Serial Number": "FLX-200118",
+    "Description": "Image Stream System",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "N/A",
+    "Manufacturer": "Imagestream",
+    "Model Number": "Easysuite 4K",
+    "Serial Number": "FLX-200119",
+    "Description": "Image Stream System",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN137143",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "110NTGY6K999",
+    "Description": "Monitors, Video",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN137144",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "109NTKFCF957",
+    "Description": "Monitors, Video",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN134480",
+    "Manufacturer": "Pelton & Crane",
+    "Model Number": "",
+    "Serial Number": "",
+    "Description": "Dental accessory stand",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN134226",
+    "Manufacturer": "Phillips",
+    "Model Number": 865240,
+    "Serial Number": "DE50868736",
+    "Description": "IntelliVue MX800",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN134234",
+    "Manufacturer": "Phillips",
+    "Model Number": 866064,
+    "Serial Number": "DE351B5979",
+    "Description": "IntelliVue MX500",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN134826",
+    "Manufacturer": "Phillips",
+    "Model Number": 867030,
+    "Serial Number": "DE694E3738",
+    "Description": "Patient Monitor",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN134829",
+    "Manufacturer": "Phillips",
+    "Model Number": 867030,
+    "Serial Number": "DE694E3849",
+    "Description": "Patient Monitor",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN96245",
+    "Manufacturer": "Steris",
+    "Model Number": "QDJ06",
+    "Serial Number": "0413308057",
+    "Description": "Warming cabinet",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN137186",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0620-050-000 // Pneumoclear",
+    "Serial Number": "2202CE0313",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN137164",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1688010000 // 1688 AIM",
+    "Serial Number": "22H534024",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN153014",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "5400-052-000 // Core 2 Console",
+    "Serial Number": 2011300809,
+    "Description": "Power Systems, Electromechanical, Surgery",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN137178",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "L11 // 0220230300",
+    "Serial Number": "22H529584",
+    "Description": "Light Sources",
+    "Location": "OR7",
+    "Location Sort": 7
+  },
+  {
+    "KN #": "KN137033",
+    "Manufacturer": "3M Health Care",
+    "Model Number": "Elipar DeepCure-S",
+    "Serial Number": 933112001963,
+    "Description": "Lights, Dental Resin Polymerization",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN137038",
+    "Manufacturer": "3M Health Care",
+    "Model Number": "Elipar DeepCure-S",
+    "Serial Number": 933112001793,
+    "Description": "Lights, Dental Resin Polymerization",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN137198",
+    "Manufacturer": "3M Health Care",
+    "Model Number": "Elipar DeepCure-S",
+    "Serial Number": 933112032986,
+    "Description": "Lights, Dental Resin Polymerization",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "No KN Number",
+    "Manufacturer": "3M Health Care",
+    "Model Number": "Elipar DeepCure-S",
+    "Serial Number": 933112001836,
+    "Description": "Lights, Dental Resin Polymerization",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "LE06613",
+    "Manufacturer": "Arizant Healthcare Inc A 3M Co",
+    "Model Number": 775,
+    "Serial Number": 10573,
+    "Description": "Warming Units, Patient, Forced-Air",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN134694",
+    "Manufacturer": "Buffalo Filter LLC A CONMED Corp Co",
+    "Model Number": "ViroVac",
+    "Serial Number": 20210014,
+    "Description": "Smoke Evacuation Systems, Surgical",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "LE06484",
+    "Manufacturer": "Coviden",
+    "Model Number": 29525,
+    "Serial Number": "V1830010SX",
+    "Description": "Kendall SCD 700 Series",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN95042",
+    "Manufacturer": "Dräger",
+    "Model Number": "",
+    "Serial Number": "",
+    "Description": "Anesthesia Workstation",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN96318",
+    "Manufacturer": "Dräger",
+    "Model Number": "8606000-49",
+    "Serial Number": "ASBE-0031",
+    "Description": "Anesthesia Induction cart",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "LE06602",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Isoflurane Vaporizer",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "LE06624",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Isoflurane Vaporizer",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN137141",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "110NTBK6L037",
+    "Description": "Monitors, Video",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN137142",
+    "Manufacturer": "LG Electronics USA Inc",
+    "Model Number": "Medical Monitor 4K DEF // 27HJ713S",
+    "Serial Number": "110NTEP6L004",
+    "Description": "Monitors, Video",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN134225",
+    "Manufacturer": "Phillips",
+    "Model Number": 865240,
+    "Serial Number": "DE50868734",
+    "Description": "IntelliVue MX800",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN134876",
+    "Manufacturer": "Phillips",
+    "Model Number": 867030,
+    "Serial Number": "DE694E3910",
+    "Description": "Patient Monitor",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN134937",
+    "Manufacturer": "Progeny Dental",
+    "Model Number": "P7017GM",
+    "Serial Number": "L1082786",
+    "Description": "Dental X-ray Unit",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN96246",
+    "Manufacturer": "Steris",
+    "Model Number": "QDJ06",
+    "Serial Number": "0413308061",
+    "Description": "Warming cabinet",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN137184",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0620-050-000 // Pneumoclear",
+    "Serial Number": "2202CE0360",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN137161",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1688010000 // 1688 AIM",
+    "Serial Number": "22H551284",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN153012",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "5400-052-000 // Core 2 Console",
+    "Serial Number": 2007700549,
+    "Description": "Power Systems, Electromechanical, Surgery",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN137176",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "L11 // 0220230300",
+    "Serial Number": "22H525354",
+    "Description": "Light Sources",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN96629",
+    "Manufacturer": "SybronEndo",
+    "Model Number": 5004,
+    "Serial Number": "54-50268",
+    "Description": "Touch N Heat",
+    "Location": "OR8",
+    "Location Sort": 8
+  },
+  {
+    "KN #": "KN000001",
+    "Manufacturer": "Test",
+    "Model Number": "Test",
+    "Serial Number": "Test",
+    "Description": "Test",
+    "Location": "PC9",
+    "Location Sort": 9
+  },
+  {
+    "KN #": "KN000002",
+    "Manufacturer": "Test",
+    "Model Number": "Test",
+    "Serial Number": "Test",
+    "Description": "Test",
+    "Location": "PC10",
+    "Location Sort": 10
+  },
+  {
+    "KN #": "KN137032",
+    "Manufacturer": "3M Health Care",
+    "Model Number": "Elipar DeepCure-S",
+    "Serial Number": 933112001760,
+    "Description": "Lights, Dental Resin Polymerization",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134911",
+    "Manufacturer": "3NT Medical",
+    "Model Number": "CCU-0100",
+    "Serial Number": "0013",
+    "Description": "Carts, Treatment, Endoscopy, Video System",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134999",
+    "Manufacturer": "3NT Medical",
+    "Model Number": "video console 2 // CCU-0200-R02",
+    "Serial Number": 2012,
+    "Description": "Carts, Treatment, Endoscopy, Video System",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96791",
+    "Manufacturer": "ALLIED HEALTHCARE PRODUCTS",
+    "Model Number": "G180",
+    "Serial Number": "0615",
+    "Description": "Aspirators",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LE06617",
+    "Manufacturer": "Arizant Healthcare Inc A 3M Co",
+    "Model Number": 775,
+    "Serial Number": 10566,
+    "Description": "Warming Units, Patient, Forced-Air",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96538",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139498,
+    "Description": "Regulators, High-Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96539",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139490,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96540",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139568,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96542",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139570,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96543",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139497,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96544",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139493,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96545",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139579,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96546",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139576,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96547",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139492,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96548",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139494,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96549",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139578,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96550",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139491,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96551",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139496,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96553",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139569,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96554",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139567,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96555",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 139577,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96588",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 138599,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96589",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 138608,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96590",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 138603,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96591",
+    "Manufacturer": "Boehringer Laboratories,LLC",
+    "Model Number": "3840 // Continuous Regulator",
+    "Serial Number": 138610,
+    "Description": "High Pressure Gas",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN137092",
+    "Manufacturer": "Buffalo Filter LLC A CONMED Corp Co",
+    "Model Number": "ViroVac",
+    "Serial Number": 20220228023,
+    "Description": "Smoke Evacuation Systems, Surgical",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN137093",
+    "Manufacturer": "Buffalo Filter LLC A CONMED Corp Co",
+    "Model Number": "ViroVac",
+    "Serial Number": 20220228020,
+    "Description": "Smoke Evacuation Systems, Surgical",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96748",
+    "Manufacturer": "COCHLEAR",
+    "Model Number": "Osscora // 91053",
+    "Serial Number": 80480,
+    "Description": "Power Systems, Otolaryngology",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134726",
+    "Manufacturer": "Covidien - (Liebel-Flarsheim)",
+    "Model Number": "Vital Vue // 8284",
+    "Serial Number": "U9J0105X",
+    "Description": "Light Sources",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN108410",
+    "Manufacturer": "DEVILBISS HEALTH CARE",
+    "Model Number": "7305P-D",
+    "Serial Number": "PD342896",
+    "Description": "Aspirator, Portable",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN108411",
+    "Manufacturer": "DEVILBISS HEALTH CARE",
+    "Model Number": "7305P-D",
+    "Serial Number": "PD342897",
+    "Description": "Aspirator, Portable",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN133869",
+    "Manufacturer": "DGH Technology Inc",
+    "Model Number": "DGH 55B",
+    "Serial Number": 2499,
+    "Description": "Pachymeters",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134222",
+    "Manufacturer": "Dräger",
+    "Model Number": "8607000–58",
+    "Serial Number": "ASFC-0206",
+    "Description": "Anesthesia Workstation",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN90505",
+    "Manufacturer": "Dräger",
+    "Model Number": "8607000–19",
+    "Serial Number": "ARZF–0034",
+    "Description": "Anesthesia Workstation",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LE06608",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Isoflurane Vaporizer",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LE06630",
+    "Manufacturer": "Dräger",
+    "Model Number": "Vapor 2000",
+    "Serial Number": "",
+    "Description": "Isoflurane Vaporizer",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN95406",
+    "Manufacturer": "Dräger",
+    "Model Number": "8607000–19",
+    "Serial Number": "ARZF-0029",
+    "Description": "Anesthesia Workstation",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96854",
+    "Manufacturer": "ELO",
+    "Model Number": "ET1519LM // Monitor, Video",
+    "Serial Number": "E019027",
+    "Description": "Monitors, Video",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96675",
+    "Manufacturer": "Erbe",
+    "Model Number": "APC-2",
+    "Serial Number": 11388659,
+    "Description": "Electrosurgical Units",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN168552",
+    "Manufacturer": "GE",
+    "Model Number": "LOGIQ P9",
+    "Serial Number": "LP9370235",
+    "Description": "Ultrasound unit",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96874",
+    "Manufacturer": "Hovertech International",
+    "Model Number": "HT AIR1 200-A",
+    "Serial Number": "2F050976",
+    "Description": "Patient Transfer Aids",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134974",
+    "Manufacturer": "Image Stream",
+    "Model Number": "",
+    "Serial Number": "ES-000698",
+    "Description": "Image stream main box",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN127693",
+    "Manufacturer": "Image Stream Medical",
+    "Model Number": "nCare MX",
+    "Serial Number": "MX-10095",
+    "Description": "Image Processors, Video, Endoscopy",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96774",
+    "Manufacturer": "Image Stream Medical",
+    "Model Number": "nCare MX",
+    "Serial Number": "MX-10071",
+    "Description": "Image Processors, Video, Endoscopy",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN137107",
+    "Manufacturer": "Integra NeuroSciences",
+    "Model Number": "Luxtec MLX",
+    "Serial Number": "22C00MLX21466",
+    "Description": "Light Sources",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN95657",
+    "Manufacturer": "Integra NeuroSciences",
+    "Model Number": "S",
+    "Serial Number": 718,
+    "Description": "Power Systems, Otolaryngology",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96392",
+    "Manufacturer": "Integra NeuroSciences",
+    "Model Number": "S",
+    "Serial Number": 699,
+    "Description": "Power Supplies, Regulated",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134494",
+    "Manufacturer": "iScience Interventional, Inc",
+    "Model Number": "FI-100",
+    "Serial Number": 101493,
+    "Description": "Light Sources, Fiberoptic",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN133594",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": "Davi Cart // Cart, Airway Intubation",
+    "Serial Number": 1021,
+    "Description": "Carts, Treatment, Endoscopy, Video System",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96592",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": "22200020 // image 1 hub",
+    "Serial Number": "XW708459-P",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96595",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": "20131520 // xenon nova 175",
+    "Serial Number": "ZW0692934",
+    "Description": "Light Sources",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96602",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": "9424LSF4",
+    "Serial Number": "13-230851",
+    "Description": "Monitors, Video",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96857",
+    "Manufacturer": "Koven Technology Inc",
+    "Model Number": "ES-100X",
+    "Serial Number": "R08040049",
+    "Description": "Flowmeters, Blood, Ultrasonic",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96858",
+    "Manufacturer": "Koven Technology Inc",
+    "Model Number": "ES-100X",
+    "Serial Number": "N/A",
+    "Description": "Flowmeters, Blood, Ultrasonic",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96988",
+    "Manufacturer": "Lumenis, Inc.",
+    "Model Number": "GA-1008944 //  Pulse 100H",
+    "Serial Number": 26,
+    "Description": "Lasers, Ho:YAG",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96449",
+    "Manufacturer": "MD RESOURCE CORPORATION",
+    "Model Number": "LS2-SP",
+    "Serial Number": "LS2-111213-1",
+    "Description": "Aspirators",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN95815",
+    "Manufacturer": "Medtronic Inc",
+    "Model Number": "NIM RESPONSE 2.0",
+    "Serial Number": "NR-IP1196",
+    "Description": "Nerve Locators",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN20517",
+    "Manufacturer": "Mentor O & O Inc",
+    "Model Number": "23-2340",
+    "Serial Number": "98A088",
+    "Description": "Ophthalmic Tonometers",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1446",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2T",
+    "Serial Number": "CC1446",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1447",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2B",
+    "Serial Number": "CC1447",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1448",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1448",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1449",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2T",
+    "Serial Number": "CC1449",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1450",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2B",
+    "Serial Number": "CC1450",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1451",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1451",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1452",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC1452",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1453",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1453",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1454",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC1454",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1455",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1455",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1456",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC1456",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1457",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1457",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1459",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1459",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1460",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC1460",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1461",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1461",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1462",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC1462",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1463",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1463",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1464",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LS-1",
+    "Serial Number": "CC1464",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1465",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LS-1",
+    "Serial Number": "CC1465",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1467",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LG-R",
+    "Serial Number": "CC1467",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1468",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2T",
+    "Serial Number": "CC1468",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1469",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2B",
+    "Serial Number": "CC1469",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1470",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1470",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1472",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC1472 M. Pfiester",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1473",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1473 M. Pfiester",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1482",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC1482 Wall",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1483",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1483 Wall",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1484",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1484",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1485",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC1485",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1486",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1486",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1489",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1489",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1494",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1494",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1495",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC1495",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1496",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1496",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1497",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LS-1",
+    "Serial Number": "CC1497",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1502",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC1502 Todd",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1503",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1503 Todd",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1504",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1504",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1507",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC1507 Bridget",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1508",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1508 Bridget",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1509",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC1509 PARIKH",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1510",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1510 PARIKH",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1511",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2T",
+    "Serial Number": "CC1511 CHERYL",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1512",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2B",
+    "Serial Number": "CC1512 CHERYL",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1525",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2T",
+    "Serial Number": "CC1525",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1526",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2B",
+    "Serial Number": "CC1526",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1527",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1527",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1528",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2T",
+    "Serial Number": "CC1528",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1529",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2B",
+    "Serial Number": "CC1529",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1530",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1530",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1531",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2T",
+    "Serial Number": "CC1531",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1532",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2B",
+    "Serial Number": "CC1532",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1533",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1533",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1534",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2T",
+    "Serial Number": "CC1534",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1535",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2B",
+    "Serial Number": "CC1535",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1536",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1536",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1537",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1537",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1538",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2B",
+    "Serial Number": "CC1538",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1539",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1539",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1542",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2B",
+    "Serial Number": "CC1542",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1565",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC1565",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1568",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC1568",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1665",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LS-1",
+    "Serial Number": "CC1665",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1682",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LG-L",
+    "Serial Number": "CC1682",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1683",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LG-R",
+    "Serial Number": "CC1683",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1884",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC1884",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1885",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1885",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1886",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LS-1",
+    "Serial Number": "CC1886",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1887",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1887",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1888",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LS-1",
+    "Serial Number": "CC1888",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1890",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LS-1",
+    "Serial Number": "CC1890",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC1891",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC1891",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2109",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC2109",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2110",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC2110",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2111",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC2111",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2112",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC2112",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2113",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC2113",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2114",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC2114",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2115",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC2115",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2116",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC2116",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2117",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC2117",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2118",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC2118",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2119",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC2119",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2120",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC2120",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2121",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC2121",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2122",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC2122",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2123",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC2123",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2124",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC2124",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2147",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC2147",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2164",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LS-1",
+    "Serial Number": "CC2164",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2165",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LS-1",
+    "Serial Number": "CC2165",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2167",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC2167",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2168",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC2168",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2169",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC2169",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2170",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-1",
+    "Serial Number": "CC2170",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2701",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "TS-1",
+    "Serial Number": "CC2701",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LA CC2702",
+    "Manufacturer": "Midwest Medical",
+    "Model Number": "LA-2T",
+    "Serial Number": "CC2702",
+    "Description": "Shields, X-Ray, Apron",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN166507",
+    "Manufacturer": "Mindray",
+    "Model Number": "TE7",
+    "Serial Number": "",
+    "Description": "Portable Ultrasound",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96346",
+    "Manufacturer": "Norian Corporation",
+    "Model Number": "MXR-US-200",
+    "Serial Number": "MXR-US-2000",
+    "Description": "Mixers",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN95285",
+    "Manufacturer": "OHIO MEDICAL",
+    "Model Number": 1251,
+    "Serial Number": "JGGM12460",
+    "Description": "Regulators, Suction",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN95732",
+    "Manufacturer": "OHIO MEDICAL",
+    "Model Number": 1251,
+    "Serial Number": "JGGM12530",
+    "Description": "Regulators, Suction",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN95736",
+    "Manufacturer": "OHIO MEDICAL",
+    "Model Number": 1251,
+    "Serial Number": "JGGM12454",
+    "Description": "Regulators, Suction",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN95750",
+    "Manufacturer": "OHIO MEDICAL",
+    "Model Number": 1251,
+    "Serial Number": "JGGM12065",
+    "Description": "Regulators, Suction",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN95751",
+    "Manufacturer": "OHIO MEDICAL",
+    "Model Number": 1251,
+    "Serial Number": "JGGM12535",
+    "Description": "Regulators, Suction",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN95783",
+    "Manufacturer": "OHIO MEDICAL",
+    "Model Number": 1251,
+    "Serial Number": "JGGM12092",
+    "Description": "Regulators, Suction",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96196",
+    "Manufacturer": "OHIO MEDICAL",
+    "Model Number": 1251,
+    "Serial Number": "JGGM12406",
+    "Description": "Regulators, Suction",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96197",
+    "Manufacturer": "OHIO MEDICAL",
+    "Model Number": 1251,
+    "Serial Number": "JGGM12411",
+    "Description": "Regulators, Suction",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96198",
+    "Manufacturer": "OHIO MEDICAL",
+    "Model Number": 1251,
+    "Serial Number": "JGGM12401",
+    "Description": "Regulators, Suction",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN98784",
+    "Manufacturer": "OHIO MEDICAL",
+    "Model Number": 1251,
+    "Serial Number": "JGGM12091",
+    "Description": "Regulators, Suction",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96795",
+    "Manufacturer": "Olympus America Inc Scientific Equipment Group",
+    "Model Number": "ALT-PRO",
+    "Serial Number": 7510215,
+    "Description": "Testers, Endoscope, Leak/Fluid Detection",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN133755",
+    "Manufacturer": "Olympus America Inc Scientific Equipment Group",
+    "Model Number": "WM-DP1",
+    "Serial Number": "28 12091",
+    "Description": "Carts, Treatment, Endoscopy",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN137109",
+    "Manufacturer": "PADGETT INSTRUMENTS Inc.",
+    "Model Number": "DP-0002",
+    "Serial Number": "1-RP-650",
+    "Description": "Power Supplies, Regulated",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN137110",
+    "Manufacturer": "PADGETT INSTRUMENTS Inc.",
+    "Model Number": "DP-0002",
+    "Serial Number": "1-RP-648",
+    "Description": "Power Supplies, Regulated",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "LE06625",
+    "Manufacturer": "PADGETT INSTRUMENTS Inc.",
+    "Model Number": "DP-0002",
+    "Serial Number": "S-1564",
+    "Description": "Power Supplies, Regulated",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134474",
+    "Manufacturer": "Pelton & Crane",
+    "Model Number": "",
+    "Serial Number": "",
+    "Description": "Dental accessory stand",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134479",
+    "Manufacturer": "Pelton & Crane",
+    "Model Number": "",
+    "Serial Number": "",
+    "Description": "Dental accessory stand",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134936",
+    "Manufacturer": "Progeny Dental",
+    "Model Number": "30-A1027",
+    "Serial Number": "",
+    "Description": "Dental X-Ray unit",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134205",
+    "Manufacturer": "Quantum OPS",
+    "Model Number": "QSPS",
+    "Serial Number": "N/A",
+    "Description": "Chairs, Examination/Treatment",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96691",
+    "Manufacturer": "Rennco",
+    "Model Number": "18-LS",
+    "Serial Number": "514-181-6992",
+    "Description": "Package Sealers",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134720",
+    "Manufacturer": "SMITH & NEPHEW",
+    "Model Number": 7210551,
+    "Serial Number": 8328,
+    "Description": "Chairs, Examination/Treatment",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134721",
+    "Manufacturer": "SMITH & NEPHEW",
+    "Model Number": 7210551,
+    "Serial Number": 8396,
+    "Description": "Chairs, Examination/Treatment",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN133596",
+    "Manufacturer": "STERIS Corp",
+    "Model Number": "Amsco 3085SP",
+    "Serial Number": "0412316004",
+    "Description": "TABLE, SURGICAL",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96397",
+    "Manufacturer": "STERIS Corp",
+    "Model Number": "SYSTEM 1E // Washer/Sterilizing Units",
+    "Serial Number": 403042,
+    "Description": "Sterilizing Units, Steam",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96398",
+    "Manufacturer": "STERIS Corp",
+    "Model Number": "SYSTEM 1E // Washer/Sterilizing Units",
+    "Serial Number": 403016,
+    "Description": "Sterilizing Units, Steam",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN93779",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1007 // PATIENT TRANSPORT, STRETCHER",
+    "Serial Number": "0806 104630",
+    "Description": "Stretchers",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN93803",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1007 // PATIENT TRANSPORT, STRETCHER",
+    "Serial Number": "0806 104629",
+    "Description": "Stretchers",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN93804",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1007 // PATIENT TRANSPORT, STRETCHER",
+    "Serial Number": "0806 104628",
+    "Description": "Stretchers",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN93805",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1007 // PATIENT TRANSPORT, STRETCHER",
+    "Serial Number": "0806 104627",
+    "Description": "Stretchers",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN93806",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1007 // PATIENT TRANSPORT, STRETCHER",
+    "Serial Number": "0806 104626",
+    "Description": "Stretchers",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN137153",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": 1089,
+    "Serial Number": 2022006000770,
+    "Description": "Stretchers",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN137707",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": 1089,
+    "Serial Number": 2019006000344,
+    "Description": "Stretchers",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96898",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": 1089,
+    "Serial Number": "1512 038093",
+    "Description": "Stretchers",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96481",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1188HD // Camera, Surgical",
+    "Serial Number": "12F011224",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN111387",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1488010000 // 1488 HD",
+    "Serial Number": "12F027524",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN111417",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1488010000 // 1488 HD",
+    "Serial Number": "12F025754",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96479",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1488010000 // 1488 HD",
+    "Serial Number": "13A012524",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96483",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1488010000 // 1488 HD",
+    "Serial Number": "13A013354",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96485",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1488010000 // 1488 HD",
+    "Serial Number": null,
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96926",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1488010000 // 1488 HD",
+    "Serial Number": "15L050564",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96473",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "220-210-000 // L9000",
+    "Serial Number": "12F039984",
+    "Description": "Light Sources",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96478",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "220-210-000 // L9000",
+    "Serial Number": "12P038444",
+    "Description": "Light Sources",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96480",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "220-210-000 // L9000",
+    "Serial Number": "12F039924",
+    "Description": "Light Sources",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96484",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "220-210-000 // L9000",
+    "Serial Number": "12F019704",
+    "Description": "Light Sources",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96490",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "220-210-000 // L9000",
+    "Serial Number": "12F013624",
+    "Description": "Light Sources",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96491",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "220-210-000 // L9000",
+    "Serial Number": "12F039894",
+    "Description": "Light Sources",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96927",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "220-210-000 // L9000",
+    "Serial Number": "16B029514",
+    "Description": "Light Sources",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN133274",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "295-1",
+    "Serial Number": 1319601073,
+    "Description": "Manometers, Muscle Compartment",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN137080",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "3105-000-100",
+    "Serial Number": 17080402,
+    "Description": "Distractors, Surgical, Hip",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN95846",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "Neptune Docking Station",
+    "Serial Number": "0822100233",
+    "Description": "Waste-Disposal Units, Liquid",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN111386",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "Pneumo Sure",
+    "Serial Number": "1205CE733",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN93675",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "Pneumo Sure",
+    "Serial Number": "0805CE279",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN93688",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "Pneumo Sure",
+    "Serial Number": "0815802513//620-040-",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN95688",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "Pneumo Sure",
+    "Serial Number": "0805CE281",
+    "Description": "Insufflators, Laparoscopic",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96327",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "Pneumo Sure",
+    "Serial Number": "1001CE098",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96488",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "Pneumo Sure",
+    "Serial Number": "1205CE685",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96928",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "Pneumo Sure",
+    "Serial Number": "1511CE0577",
+    "Description": "Insufflators, Laparoscopic",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134495",
+    "Manufacturer": "SunMed",
+    "Model Number": "SunStim Plus",
+    "Serial Number": "20180524183M",
+    "Description": "Stimulators, Electrical, Peripheral Nerve, Block Monitoring",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134496",
+    "Manufacturer": "SunMed",
+    "Model Number": "SunStim Plus",
+    "Serial Number": "20180524181M",
+    "Description": "Stimulators, Electrical, Peripheral Nerve, Block Monitoring",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134497",
+    "Manufacturer": "SunMed",
+    "Model Number": "SunStim Plus",
+    "Serial Number": "20180524182M",
+    "Description": "Stimulators, Electrical, Peripheral Nerve, Block Monitoring",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96224",
+    "Manufacturer": "Thermo Scientific Lab Div Thermo Fisher Scientific",
+    "Model Number": "ULT390-3-A35",
+    "Serial Number": "0128434701090729",
+    "Description": "FREEZER, MEDICAL",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN137862",
+    "Manufacturer": "Valleylab Covidien Div Covidien (US)",
+    "Model Number": "FX8 // FX8",
+    "Serial Number": "F3I26204KX",
+    "Description": "Electrosurgical Units, Monopolar/Bipolar",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN137863",
+    "Manufacturer": "Valleylab Covidien Div Covidien (US)",
+    "Model Number": "FX8 // FX8",
+    "Serial Number": "F3I26203KX",
+    "Description": "Electrosurgical Units, Monopolar/Bipolar",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134724",
+    "Manufacturer": "Verathon Inc",
+    "Model Number": "GlideScope Cobalt AVL",
+    "Serial Number": "AN201063",
+    "Description": "Laryngoscopes, Rigid, Video",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN133244",
+    "Manufacturer": "XOMED-TREACE",
+    "Model Number": "REF: 30-55607",
+    "Serial Number": 14202,
+    "Description": "GENERAL EQUIPMENT",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134464",
+    "Manufacturer": "ZIMMER/ASPEN LABS",
+    "Model Number": "ATS 4000",
+    "Serial Number": 401810230007,
+    "Description": "Tourniquets, Pneumatic",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN134467",
+    "Manufacturer": "ZIMMER/ASPEN LABS",
+    "Model Number": "ATS 4000",
+    "Serial Number": 401810160012,
+    "Description": "Tourniquets, Pneumatic",
+    "Location": "-",
+    "Location Sort": 99999
+  },
+  {
+    "KN #": "KN96778",
+    "Manufacturer": "Image Stream Medical",
+    "Model Number": "nCare MX",
+    "Serial Number": "MX-10062",
+    "Description": "Image Processors, Video, Endoscopy",
+    "Location": "Bronch Cart",
+    "Location Sort": 88888
+  },
+  {
+    "KN #": "KN96697",
+    "Manufacturer": "Olympus America Inc Scientific Equipment Group",
+    "Model Number": "CLV-190 // Xenon Light Source",
+    "Serial Number": 7558802,
+    "Description": "Light Sources",
+    "Location": "Bronch Cart",
+    "Location Sort": 88888
+  },
+  {
+    "KN #": "KN96696",
+    "Manufacturer": "Olympus America Inc Scientific Equipment Group",
+    "Model Number": "CV-190 // Video System Center",
+    "Serial Number": 7500304,
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "Bronch Cart",
+    "Location Sort": 88888
+  },
+  {
+    "KN #": "KN96695",
+    "Manufacturer": "Olympus America Inc Scientific Equipment Group",
+    "Model Number": "OEV261H",
+    "Serial Number": 7416850,
+    "Description": "Monitors, Video",
+    "Location": "Bronch Cart",
+    "Location Sort": 88888
+  },
+  {
+    "KN #": "KN134714",
+    "Manufacturer": "Integra NeuroSciences",
+    "Model Number": "Luxtec MLX",
+    "Serial Number": "19H00MLX11764",
+    "Description": "Light Sources",
+    "Location": "Clinical Engineering",
+    "Location Sort": 77777
+  },
+  {
+    "KN #": "KN96562",
+    "Manufacturer": "Olympus America Inc Scientific Equipment Group",
+    "Model Number": "CLV-190 // Xenon Light Source",
+    "Serial Number": 7339096,
+    "Description": "Light Sources",
+    "Location": "Clinical Engineering",
+    "Location Sort": 77777
+  },
+  {
+    "KN #": "KN96565",
+    "Manufacturer": "Olympus America Inc Scientific Equipment Group",
+    "Model Number": "CV-190 // Video System Center",
+    "Serial Number": 7389267,
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "Clinical Engineering",
+    "Location Sort": 77777
+  },
+  {
+    "KN #": "KN137203",
+    "Manufacturer": "KEELER",
+    "Model Number": "2509-P-1010 // Cryomatic MKII",
+    "Serial Number": "K0910478",
+    "Description": "Cryosurgical Units, General-Purpose",
+    "Location": "Cold Storage",
+    "Location Sort": 66666
+  },
+  {
+    "KN #": "KN134519",
+    "Manufacturer": "3M",
+    "Model Number": "ESPE Rotomix",
+    "Serial Number": 960401012691,
+    "Description": "Dental Amalgamator",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN86567",
+    "Manufacturer": "3M",
+    "Model Number": "ESPE Rotomix",
+    "Serial Number": 960401007077,
+    "Description": "Dental Amalgamator",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN86568",
+    "Manufacturer": "3M",
+    "Model Number": "ESPE Rotomix",
+    "Serial Number": 960401007082,
+    "Description": "Dental Amalgamator",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN95825",
+    "Manufacturer": "3M",
+    "Model Number": "ESPE Rotomix",
+    "Serial Number": 960401008749,
+    "Description": "Dental Amalgamator",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN96375",
+    "Manufacturer": "3M",
+    "Model Number": "ESPE Rotomix",
+    "Serial Number": 960401009670,
+    "Description": "Dental Amalgamator",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN134549",
+    "Manufacturer": "3M Health Care",
+    "Model Number": "Elipar DeepCure-S",
+    "Serial Number": 933112016314,
+    "Description": "Lights, Dental Resin Polymerization",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN137034",
+    "Manufacturer": "3M Health Care",
+    "Model Number": "Elipar DeepCure-S",
+    "Serial Number": 933112001996,
+    "Description": "Lights, Dental Resin Polymerization",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN137035",
+    "Manufacturer": "3M Health Care",
+    "Model Number": "Elipar DeepCure-S",
+    "Serial Number": 933112001967,
+    "Description": "Lights, Dental Resin Polymerization",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN137204",
+    "Manufacturer": "3M Health Care",
+    "Model Number": "Elipar DeepCure-S",
+    "Serial Number": 933112032942,
+    "Description": "Lights, Dental Resin Polymerization",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN96386",
+    "Manufacturer": "3M Health Care",
+    "Model Number": "Elipar DeepCure-S",
+    "Serial Number": 933112015520,
+    "Description": "Lights, Dental Resin Polymerization",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN96937",
+    "Manufacturer": "3M Health Care",
+    "Model Number": "Elipar DeepCure-S",
+    "Serial Number": 933112003001,
+    "Description": "Lights, Dental Resin Polymerization",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN137094",
+    "Manufacturer": "DENTSPLY",
+    "Model Number": "BOBCAT PRO",
+    "Serial Number": "130-48971",
+    "Description": "Washers, Labware/Surgical Instrument, Ultrasonic",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN137095",
+    "Manufacturer": "DENTSPLY",
+    "Model Number": "BOBCAT PRO",
+    "Serial Number": "130-49096",
+    "Description": "Washers, Labware/Surgical Instrument, Ultrasonic",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN134475",
+    "Manufacturer": "Pelton & Crane",
+    "Model Number": "",
+    "Serial Number": "",
+    "Description": "Dental accessory stand",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN134476",
+    "Manufacturer": "Pelton & Crane",
+    "Model Number": "",
+    "Serial Number": "",
+    "Description": "Dental accessory stand",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN134477",
+    "Manufacturer": "Pelton & Crane",
+    "Model Number": "",
+    "Serial Number": "",
+    "Description": "Dental accessory stand",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "KN134478",
+    "Manufacturer": "Pelton & Crane",
+    "Model Number": "",
+    "Serial Number": "",
+    "Description": "Dental accessory stand",
+    "Location": "Dental Room LA2.584",
+    "Location Sort": 11
+  },
+  {
+    "KN #": "LE04188",
+    "Manufacturer": "OR SOLUTIONS",
+    "Model Number": "ORS-2038D",
+    "Serial Number": 50812,
+    "Description": "Warming Units, Multipurpose",
+    "Location": "Eyewash Room LA2.560",
+    "Location Sort": 13
+  },
+  {
+    "KN #": "KN137083",
+    "Manufacturer": "Solta Medical Inc",
+    "Model Number": "Vaser Lipo / 110-0032",
+    "Serial Number": "BBD4Z2",
+    "Description": "Aspirators, Surgical, Liposuction",
+    "Location": "Eyewash Room LA2.560",
+    "Location Sort": 13
+  },
+  {
+    "KN #": "KN96431",
+    "Manufacturer": "Olympus America Inc Scientific Equipment Group",
+    "Model Number": "WM-DP1",
+    "Serial Number": 21132486,
+    "Description": "Carts, Treatment, Endoscopy, Video System",
+    "Location": "GI Cart 1",
+    "Location Sort": 90
+  },
+  {
+    "KN #": "KN134699",
+    "Manufacturer": "Erbe",
+    "Model Number": "7913-1000",
+    "Serial Number": "NX1401ZJ",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "GI Cart 2",
+    "Location Sort": 90
+  },
+  {
+    "KN #": "KN134700",
+    "Manufacturer": "Erbe",
+    "Model Number": "10325-000",
+    "Serial Number": 11483955,
+    "Description": "Irrigators, Surgical Site, Electrosurgery",
+    "Location": "GI Cart 2",
+    "Location Sort": 91
+  },
+  {
+    "KN #": "KN93669",
+    "Manufacturer": "Erbe",
+    "Model Number": "VIO 300 D // VIO 300 D",
+    "Serial Number": 11293431,
+    "Description": "Electrosurgical Units, Monopolar/Bipolar",
+    "Location": "GI Cart 2",
+    "Location Sort": 91
+  },
+  {
+    "KN #": "LE06618",
+    "Manufacturer": "Arizant Healthcare Inc A 3M Co",
+    "Model Number": 775,
+    "Serial Number": 10567,
+    "Description": "Warming Units, Patient, Forced-Air",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN137070",
+    "Manufacturer": "Buffalo Filter LLC A CONMED Corp Co",
+    "Model Number": "ViroVac",
+    "Serial Number": 21250272,
+    "Description": "Smoke Evacuation Systems, Surgical",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN137073",
+    "Manufacturer": "Buffalo Filter LLC A CONMED Corp Co",
+    "Model Number": "ViroVac",
+    "Serial Number": 2121761,
+    "Description": "Smoke Evacuation Systems, Surgical",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN96723",
+    "Manufacturer": "Buffalo Filter LLC A CONMED Corp Co",
+    "Model Number": "ViroVac",
+    "Serial Number": "V05002",
+    "Description": "Smoke Evacuation Systems, Surgical",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN96979",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": "TC200",
+    "Serial Number": "PT746816-P",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN96980",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": "TC200",
+    "Serial Number": "PT746828-P",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN96985",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": "TC300",
+    "Serial Number": "RT747977-P",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN96987",
+    "Manufacturer": "KARL STORZ Endoscopy-America Inc",
+    "Model Number": "TC300",
+    "Serial Number": "RT747956-P",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN137206",
+    "Manufacturer": "Lumenis",
+    "Model Number": "GA-0006802",
+    "Serial Number": 432,
+    "Description": "Moses Holmium Laser",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN96360",
+    "Manufacturer": "Mizuho OSI",
+    "Model Number": "5803; JACKSON TABLE",
+    "Serial Number": 7580,
+    "Description": "Tables, Operating",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN96615",
+    "Manufacturer": "Mizuho OSI",
+    "Model Number": "6875 HANA TABLE",
+    "Serial Number": "2014-0783",
+    "Description": "Tables, Examination/Treatment",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN134562",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0475100000",
+    "Serial Number": "19J548304",
+    "Description": "Electrosurgical Units, Bipolar",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN137190",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "0620-050-000 // Pneumoclear",
+    "Serial Number": "2103CE0733",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN137165",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1688010000 // 1688 AIM",
+    "Serial Number": "22H571994",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN137167",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1688010000 // 1688 AIM",
+    "Serial Number": "22H534034",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN137171",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1688010000 // 1688 AIM",
+    "Serial Number": "22H534054",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN137172",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "1688010000 // 1688 AIM",
+    "Serial Number": "22H544004",
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN137174",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "L11 // 0220230300",
+    "Serial Number": "22H529574",
+    "Description": "Light Sources",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN137181",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "L11 // 0220230300",
+    "Serial Number": "22H538354",
+    "Description": "Light Sources",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN137183",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "L11 // 0220230300",
+    "Serial Number": "22H517824",
+    "Description": "Light Sources",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN137228",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "L11 // 0220230300",
+    "Serial Number": "22J599924",
+    "Description": "Light Sources",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN134597",
+    "Manufacturer": "Valleylab Covidien Div Covidien (US)",
+    "Model Number": "FX8 // FX8",
+    "Serial Number": "F9I12455KX",
+    "Description": "Electrosurgical Units, Monopolar/Bipolar",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN134465",
+    "Manufacturer": "ZIMMER/ASPEN LABS",
+    "Model Number": "ATS 4000",
+    "Serial Number": 401810230008,
+    "Description": "Tourniquets, Pneumatic",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN134466",
+    "Manufacturer": "ZIMMER/ASPEN LABS",
+    "Model Number": "ATS 4000",
+    "Serial Number": 401810160018,
+    "Description": "Tourniquets, Pneumatic",
+    "Location": "Ortho Storage LA2.536",
+    "Location Sort": 14
+  },
+  {
+    "KN #": "KN95892",
+    "Manufacturer": "ArthroCare Corporation",
+    "Model Number": "Coblator II",
+    "Serial Number": "C1296",
+    "Description": "Electrosurgical Units",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN95893",
+    "Manufacturer": "ArthroCare Corporation",
+    "Model Number": "Coblator II",
+    "Serial Number": "C2917",
+    "Description": "Electrosurgical Units",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN96358",
+    "Manufacturer": "Baxter Healthcare Corp.",
+    "Model Number": "Easy Spray // Easy Spray",
+    "Serial Number": "03175",
+    "Description": "Regulators, High-Pressure Gas, Spray Delivery",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN168111",
+    "Manufacturer": "BK Medical North America A GE Healthcare Co",
+    "Model Number": "BK3000",
+    "Serial Number": 5013925,
+    "Description": "Scanning Systems, Ultrasonic, General-Purpose",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN95655",
+    "Manufacturer": "Candela Corp",
+    "Model Number": "VBEAM2",
+    "Serial Number": "9914-0300-0807",
+    "Description": "Lasers, Dye, Dermatologic",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN95656",
+    "Manufacturer": "Cooper Surgical, Inc.",
+    "Model Number": "CE-2000",
+    "Serial Number": "060806",
+    "Description": "Cryosurgical Units, General-Purpose",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN96459",
+    "Manufacturer": "Ethicon Endo-Surgery Inc A Johnson & Johnson Co",
+    "Model Number": "GEN 11/02",
+    "Serial Number": 1111226316,
+    "Description": "Ultrasonic Surgical Units",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN134715",
+    "Manufacturer": "Integra NeuroSciences",
+    "Model Number": "Luxtec MLX",
+    "Serial Number": "19H00MLX11768",
+    "Description": "Light Sources",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN96357",
+    "Manufacturer": "J H Emerson Co",
+    "Model Number": "96-SL",
+    "Serial Number": 1221,
+    "Description": "Lights, Examination",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN76736",
+    "Manufacturer": "Leica Inc",
+    "Model Number": "M400-E",
+    "Serial Number": 140705004,
+    "Description": "Microscopes, Light, Operating",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN96450",
+    "Manufacturer": "MD RESOURCE CORPORATION",
+    "Model Number": "K PUMP",
+    "Serial Number": "KP-120614-2",
+    "Description": "Irrigators, Surgical Site, Electrosurgery",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN134090",
+    "Manufacturer": "Medtronic Inc",
+    "Model Number": "NIM-Response 3.0",
+    "Serial Number": "1NR3-4008",
+    "Description": "Nerve Locators",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN96359",
+    "Manufacturer": "Micromedics Inc",
+    "Model Number": "DuploSpray MIS // 0600032",
+    "Serial Number": "82200-010",
+    "Description": "Regulators, High-Pressure Gas, Spray Delivery",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN96453",
+    "Manufacturer": "Noel Industries",
+    "Model Number": "EDF",
+    "Serial Number": "N/A",
+    "Description": "Casting Stands, Orthopedic",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN96881",
+    "Manufacturer": "RICHARD WOLF MED INS",
+    "Model Number": "2352.011 // Wolf Bipolar Generator",
+    "Serial Number": "10B2929",
+    "Description": "Electrosurgical Units, Bipolar",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN165118",
+    "Manufacturer": "Valleylab Covidien Div Covidien (US)",
+    "Model Number": "FT10",
+    "Serial Number": "T8L29013DX",
+    "Description": "Electrosurgical Units, Monopolar/Bipolar, Tissue Fusion",
+    "Location": "Overflow Storage LA2.581",
+    "Location Sort": 12
+  },
+  {
+    "KN #": "KN135000",
+    "Manufacturer": "3NT Medical",
+    "Model Number": "video console 2 // CCU-0200-R02",
+    "Serial Number": 2008,
+    "Description": "Carts, Treatment, Endoscopy, Video System",
+    "Location": "Room 135 LA2.532",
+    "Location Sort": 15
+  },
+  {
+    "KN #": "KN134722",
+    "Manufacturer": "ALCON SURGICAL",
+    "Model Number": "Constellation Vision System",
+    "Serial Number": "2001695501X",
+    "Description": "Vitrectomy Units",
+    "Location": "Room 135 LA2.532",
+    "Location Sort": 15
+  },
+  {
+    "KN #": "KN93646",
+    "Manufacturer": "Carl Zeiss Inc Microscopy & Imaging Systems",
+    "Model Number": "OPMI PICO // Microscope, Light, Operating",
+    "Serial Number": 6627103361,
+    "Description": "Microscopes, Light, Operating",
+    "Location": "Room 135 LA2.532",
+    "Location Sort": 15
+  },
+  {
+    "KN #": "KN96376",
+    "Manufacturer": "Carl Zeiss Inc Microscopy & Imaging Systems",
+    "Model Number": "OPMI PICO // Microscope, Light, Operating",
+    "Serial Number": 6627104887,
+    "Description": "Microscopes, Light, Operating",
+    "Location": "Room 135 LA2.532",
+    "Location Sort": 15
+  },
+  {
+    "KN #": "LE06467",
+    "Manufacturer": "Coviden",
+    "Model Number": 29525,
+    "Serial Number": "V1829609SX",
+    "Description": "Kendall SCD 700 Series",
+    "Location": "Room 135 LA2.532",
+    "Location Sort": 15
+  },
+  {
+    "KN #": "KN134723",
+    "Manufacturer": "Ellex Inc",
+    "Model Number": "I3 System-ABD",
+    "Serial Number": "V400-12064",
+    "Description": "Cameras, Photographic, Ophthalmic",
+    "Location": "Room 135 LA2.532",
+    "Location Sort": 15
+  },
+  {
+    "KN #": "KN134717",
+    "Manufacturer": "Integra NeuroSciences",
+    "Model Number": "Luxtec MLX",
+    "Serial Number": "19H00MLX11759",
+    "Description": "Light Sources",
+    "Location": "Room 135 LA2.532",
+    "Location Sort": 15
+  },
+  {
+    "KN #": "KN134718",
+    "Manufacturer": "Integra NeuroSciences",
+    "Model Number": "Luxtec MLX",
+    "Serial Number": "19H00MLX11767",
+    "Description": "Light Sources",
+    "Location": "Room 135 LA2.532",
+    "Location Sort": 15
+  },
+  {
+    "KN #": "KN133715",
+    "Manufacturer": "Leica Inc",
+    "Model Number": "PROVEO 8 // Microscope, Light, Operating",
+    "Serial Number": 130716001,
+    "Description": "Microscopes, Light, Operating",
+    "Location": "Room 135 LA2.532",
+    "Location Sort": 15
+  },
+  {
+    "KN #": "KN134667",
+    "Manufacturer": "Lombart Instrument",
+    "Model Number": "Retinomax K-Plus 5",
+    "Serial Number": 6000341,
+    "Description": "Refractometers",
+    "Location": "Room 135 LA2.532",
+    "Location Sort": 15
+  },
+  {
+    "KN #": "KN134553",
+    "Manufacturer": "Medtronic ENT",
+    "Model Number": "IPC // 1898001",
+    "Serial Number": "ENTC84213",
+    "Description": "Carts, Treatment, Otorhinolaryngology",
+    "Location": "Room 135 LA2.532",
+    "Location Sort": 15
+  },
+  {
+    "KN #": "KN134091",
+    "Manufacturer": "Medtronic Inc",
+    "Model Number": "NIM-Response 3.0",
+    "Serial Number": "1NR3-4009",
+    "Description": "Nerve Locators",
+    "Location": "Room 135 LA2.532",
+    "Location Sort": 15
+  },
+  {
+    "KN #": "KN153004",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "5400-052-000 // Core 2 Console",
+    "Serial Number": 2007700689,
+    "Description": "Power Systems, Electromechanical, Surgery",
+    "Location": "Room 135 LA2.532",
+    "Location Sort": 15
+  },
+  {
+    "KN #": "KN76735",
+    "Manufacturer": "Leica Inc",
+    "Model Number": "M400-E",
+    "Serial Number": 140705007,
+    "Description": "Microscopes, Light, Operating",
+    "Location": "Sterile Hallway OR 4-6",
+    "Location Sort": 17
+  },
+  {
+    "KN #": "KN96499",
+    "Manufacturer": "Medical Solutions Inc",
+    "Model Number": "Temp 2",
+    "Serial Number": 6467,
+    "Description": "Warming Units, Blood/Intravenous Solution",
+    "Location": "Sterile Hallway OR 4-6",
+    "Location Sort": 17
+  },
+  {
+    "KN #": "KN84654",
+    "Manufacturer": "Air Technologies",
+    "Model Number": "B7110",
+    "Serial Number": 3237,
+    "Description": "Dental Imaging System",
+    "Location": "Sterile Hallway OR 7-8",
+    "Location Sort": 18
+  },
+  {
+    "KN #": "KN134502",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "Neptune 3 Rover // Waste Management System",
+    "Serial Number": 1901510933,
+    "Description": "Waste-Disposal Units, Liquid",
+    "Location": "Sterile Hallway OR 7-8",
+    "Location Sort": 18
+  },
+  {
+    "KN #": "KN134503",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "Neptune 3 Rover // Waste Management System",
+    "Serial Number": 1901510993,
+    "Description": "Waste-Disposal Units, Liquid",
+    "Location": "Sterile Hallway OR 7-8",
+    "Location Sort": 18
+  },
+  {
+    "KN #": "KN134504",
+    "Manufacturer": "Stryker Corp",
+    "Model Number": "Neptune 3 Rover // Waste Management System",
+    "Serial Number": 1901127363,
+    "Description": "Waste-Disposal Units, Liquid",
+    "Location": "Sterile Hallway OR 7-8",
+    "Location Sort": 18
+  },
+  {
+    "KN #": "KN96894",
+    "Manufacturer": "ZOLL Medical Corp",
+    "Model Number": "R Series ALS",
+    "Serial Number": "AF15J050767",
+    "Description": "Defibrillators, External, Manual",
+    "Location": "Sterile Hallway OR1-3",
+    "Location Sort": 18
+  },
+  {
+    "KN #": "KN134698",
+    "Manufacturer": "Erbe",
+    "Model Number": "7913-1000",
+    "Serial Number": "NX1406ZJ",
+    "Description": "Insufflators, Endoscopic",
+    "Location": "Suture Room LA2.530",
+    "Location Sort": 16
+  },
+  {
+    "KN #": "KN134701",
+    "Manufacturer": "Erbe",
+    "Model Number": "10325-000",
+    "Serial Number": 11483431,
+    "Description": "Irrigators, Surgical Site, Electrosurgery",
+    "Location": "Suture Room LA2.530",
+    "Location Sort": 16
+  },
+  {
+    "KN #": "KN93662",
+    "Manufacturer": "Erbe",
+    "Model Number": "VIO 300 D // VIO 300 D",
+    "Serial Number": 11293285,
+    "Description": "Electrosurgical Units, Monopolar/Bipolar",
+    "Location": "Suture Room LA2.530",
+    "Location Sort": 16
+  },
+  {
+    "KN #": "KN96564",
+    "Manufacturer": "Olympus America Inc Scientific Equipment Group",
+    "Model Number": "CLV-190 // Xenon Light Source",
+    "Serial Number": 7338969,
+    "Description": "Light Sources",
+    "Location": "Suture Room LA2.530",
+    "Location Sort": 16
+  },
+  {
+    "KN #": "KN96563",
+    "Manufacturer": "Olympus America Inc Scientific Equipment Group",
+    "Model Number": "CV-190 // Video System Center",
+    "Serial Number": 7389302,
+    "Description": "Cameras, Video, Endoscope",
+    "Location": "Suture Room LA2.530",
+    "Location Sort": 16
+  },
+  {
+    "KN #": "KN96698",
+    "Manufacturer": "Olympus America Inc Scientific Equipment Group",
+    "Model Number": "WM-NP2",
+    "Serial Number": 21503027,
+    "Description": "Carts, Treatment, Endoscopy, Video System",
+    "Location": "Suture Room LA2.530",
+    "Location Sort": 16
+  }
+]
