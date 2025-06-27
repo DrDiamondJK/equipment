@@ -1,101 +1,354 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Search by Serial #</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      padding: 1em;
-      background: #f2f2f2;
-    }
-    input, button, a {
-      font-size: 1em;
-      margin: 0.5em 0;
-      display: block;
-    }
-    .result, .details {
-      background: white;
-      padding: 1em;
-      border-radius: 0.5em;
-      margin-top: 1em;
-    }
-    label {
-      font-size: 0.9em;
-      margin-top: 0.5em;
-    }
-    textarea, input {
-      width: 100%;
-      margin-bottom: 0.5em;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Equipment Serial Number Search</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border-radius: 20px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #4CAF50, #45a049);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+            font-weight: 300;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 1.1em;
+        }
+
+        .search-section {
+            padding: 40px;
+        }
+
+        .search-container {
+            position: relative;
+            margin-bottom: 30px;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 18px 24px;
+            font-size: 1.2em;
+            border: 3px solid #e1e5e9;
+            border-radius: 50px;
+            outline: none;
+            transition: all 0.3s ease;
+            background: #f8f9fa;
+        }
+
+        .search-input:focus {
+            border-color: #4CAF50;
+            background: white;
+            box-shadow: 0 0 20px rgba(76, 175, 80, 0.2);
+            transform: translateY(-2px);
+        }
+
+        .search-btn {
+            position: absolute;
+            right: 6px;
+            top: 50%;
+            transform: translateY(-50%);
+            background: linear-gradient(135deg, #4CAF50, #45a049);
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 25px;
+            cursor: pointer;
+            font-size: 1em;
+            font-weight: 600;
+            transition: all 0.3s ease;
+        }
+
+        .search-btn:hover {
+            background: linear-gradient(135deg, #45a049, #4CAF50);
+            transform: translateY(-50%) scale(1.05);
+        }
+
+        .results-container {
+            margin-top: 30px;
+        }
+
+        .result-card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+            border-left: 5px solid #4CAF50;
+            animation: slideIn 0.5s ease-out;
+        }
+
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .result-header {
+            display: flex;
+            justify-content: between;
+            align-items: center;
+            margin-bottom: 15px;
+            flex-wrap: wrap;
+            gap: 10px;
+        }
+
+        .kn-number {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 0.9em;
+        }
+
+        .serial-highlight {
+            background: #fff3cd;
+            padding: 6px 12px;
+            border-radius: 15px;
+            font-weight: 600;
+            color: #856404;
+            border: 2px solid #ffeaa7;
+        }
+
+        .result-details {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 15px;
+            margin-top: 15px;
+        }
+
+        .detail-item {
+            background: #f8f9fa;
+            padding: 12px 16px;
+            border-radius: 10px;
+            border-left: 3px solid #4CAF50;
+        }
+
+        .detail-label {
+            font-size: 0.9em;
+            color: #666;
+            margin-bottom: 5px;
+            font-weight: 600;
+        }
+
+        .detail-value {
+            font-size: 1.1em;
+            color: #333;
+            font-weight: 500;
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+            font-size: 1.1em;
+        }
+
+        .error-message {
+            background: #f8d7da;
+            color: #721c24;
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 20px;
+            border-left: 4px solid #dc3545;
+        }
+
+        .loading {
+            display: none;
+            text-align: center;
+            padding: 20px;
+            color: #4CAF50;
+            font-size: 1.1em;
+        }
+
+        .spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #4CAF50;
+            border-radius: 50%;
+            width: 30px;
+            height: 30px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 10px;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 2em;
+            }
+            
+            .search-section {
+                padding: 20px;
+            }
+            
+            .result-details {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
 </head>
 <body>
-  <a href="index.html">Back to Home</a>
-  <h1>Search by Serial Number</h1>
-  <input type="text" id="search-input" placeholder="Enter Serial Number">
-  <button onclick="searchBySerial()">Search</button>
+    <div class="container">
+        <div class="header">
+            <h1>Equipment Search</h1>
+            <p>Find equipment details by serial number</p>
+        </div>
+        
+        <div class="search-section">
+            <div class="search-container">
+                <input 
+                    type="text" 
+                    id="serialInput" 
+                    class="search-input" 
+                    placeholder="Enter serial number..." 
+                    autocomplete="off"
+                >
+                <button onclick="searchSerial()" class="search-btn">Search</button>
+            </div>
+            
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <div>Searching...</div>
+            </div>
+            
+            <div id="results" class="results-container"></div>
+        </div>
+    </div>
 
-  <div id="result" class="result" style="display: none"></div>
+    <script>
+        let equipmentData = [];
 
-  <script>
-    let data = [];
-
-    function loadLocalData() {
-      const stored = localStorage.getItem('equipmentData');
-      if (stored) {
-        try {
-          return JSON.parse(stored);
-        } catch {
-          return [];
+        // Load data when page loads
+        async function loadData() {
+            try {
+                const response = await fetch('data.json');
+                if (!response.ok) {
+                    throw new Error('Failed to load data.json');
+                }
+                equipmentData = await response.json();
+                console.log('Data loaded successfully:', equipmentData.length, 'items');
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('results').innerHTML = `
+                    <div class="error-message">
+                        <strong>Error:</strong> Could not load data.json file. Please make sure the file exists in the same directory as this HTML file.
+                    </div>
+                `;
+            }
         }
-      }
-      return [];
-    }
 
-    function renderResult(item) {
-      const div = document.getElementById('result');
-      div.innerHTML = `
-        <h3>${item["Description"]}</h3>
-        <p><strong>KN #:</strong> ${item["KN #"]}</p>
-        <p><strong>Manufacturer:</strong> ${item["Manufacturer"]}</p>
-        <p><strong>Model Number:</strong> ${item["Model Number"]}</p>
-        <p><strong>Serial Number:</strong> ${item["Serial Number"]}</p>
-        <p><strong>Location:</strong> ${item["Location"]}</p>
-        <p><strong>Notes:</strong><br>${item["Notes"] || ''}</p>
-        <p><strong>Model Notes:</strong><br>${item["Model Notes"] || ''}</p>
-        <p><strong>Location Notes:</strong><br>${item["Location Notes"] || ''}</p>
-      `;
-      div.style.display = 'block';
-    }
+        function searchSerial() {
+            const searchTerm = document.getElementById('serialInput').value.trim();
+            const resultsDiv = document.getElementById('results');
+            const loadingDiv = document.getElementById('loading');
 
-   function searchBySerial() {
-  const query = document.getElementById('search-input').value.trim().toLowerCase();
-  if (!query) return;
-  const found = data.find(item => 
-    (item["Serial Number"] || '').toLowerCase().trim() === query
-  );
-  const div = document.getElementById('result');
-  if (found) {
-    renderResult(found);
-  } else {
-    div.innerHTML = '<p>No equipment found with that serial number.</p>';
-    div.style.display = 'block';
-  }
-}
+            if (!searchTerm) {
+                resultsDiv.innerHTML = '<div class="no-results">Please enter a serial number to search.</div>';
+                return;
+            }
 
-    fetch('data.json')
-      .then(res => res.json())
-      .then(json => {
-        console.log("✅ Loaded data.json:", json);
-        const localData = loadLocalData();
-        data = localData || json;
-      })
-      .catch(err => {
-        console.error('Failed to load data.json', err);
-        alert('Could not load equipment data.');
-      });
-  </script>
+            // Show loading
+            loadingDiv.style.display = 'block';
+            resultsDiv.innerHTML = '';
+
+            // Simulate brief loading time for better UX
+            setTimeout(() => {
+                loadingDiv.style.display = 'none';
+                
+                // Search for matching serial numbers
+                const matches = equipmentData.filter(item => {
+                    const serialStr = String(item['Serial Number']).toLowerCase();
+                    const searchStr = searchTerm.toLowerCase();
+                    return serialStr.includes(searchStr);
+                });
+
+                if (matches.length === 0) {
+                    resultsDiv.innerHTML = `
+                        <div class="no-results">
+                            <h3>No Results Found</h3>
+                            <p>No equipment found with serial number containing "${searchTerm}"</p>
+                        </div>
+                    `;
+                } else {
+                    resultsDiv.innerHTML = matches.map(item => `
+                        <div class="result-card">
+                            <div class="result-header">
+                                <div class="kn-number">${item['KN #']}</div>
+                                <div class="serial-highlight">Serial: ${item['Serial Number']}</div>
+                            </div>
+                            <div class="result-details">
+                                <div class="detail-item">
+                                    <div class="detail-label">Manufacturer</div>
+                                    <div class="detail-value">${item['Manufacturer']}</div>
+                                </div>
+                                <div class="detail-item">
+                                    <div class="detail-label">Model Number</div>
+                                    <div class="detail-value">${item['Model Number']}</div>
+                                </div>
+                                <div class="detail-item">
+                                    <div class="detail-label">Description</div>
+                                    <div class="detail-value">${item['Description']}</div>
+                                </div>
+                                <div class="detail-item">
+                                    <div class="detail-label">Location</div>
+                                    <div class="detail-value">${item['Location']}</div>
+                                </div>
+                            </div>
+                        </div>
+                    `).join('');
+                }
+            }, 300);
+        }
+
+        // Allow Enter key to trigger search
+        document.getElementById('serialInput').addEventListener('keypress', function(e) {
+            if (e.key === 'Enter') {
+                searchSerial();
+            }
+        });
+
+        // Load data when page loads
+        window.addEventListener('load', loadData);
+    </script>
 </body>
 </html>
