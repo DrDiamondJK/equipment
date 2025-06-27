@@ -1,189 +1,42 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>OR Equipment Tracker</title>
+  <title>OR Equipment Tracker - Home</title>
   <style>
     body {
       font-family: sans-serif;
       padding: 1em;
       background: #f2f2f2;
     }
-    select, button {
-      font-size: 1em;
+    h1 {
       margin-bottom: 1em;
     }
-    .equipment-list, .details {
-      background: white;
-      padding: 1em;
-      border-radius: 0.5em;
-      margin-bottom: 1em;
-    }
-    .equipment-item {
-      padding: 0.5em;
-      border-bottom: 1px solid #ccc;
-      cursor: pointer;
-    }
-    .equipment-item:hover {
-      background: #eef;
-    }
-    .details label {
-      font-size: 0.75em;
+    a {
       display: block;
-      margin-top: 0.5em;
+      margin: 0.5em 0;
+      font-size: 1.1em;
+      color: #007bff;
+      text-decoration: none;
     }
-    .details input, .details textarea {
-      width: 100%;
-      margin-bottom: 0.5em;
+    a:hover {
+      text-decoration: underline;
     }
-    .notes {
-      font-size: 0.85em;
-      background: #ffffcc;
-      padding: 0.5em;
-      border-radius: 0.25em;
-      margin-top: 0.5em;
+    .container {
+      background: white;
+      padding: 2em;
+      border-radius: 0.5em;
+      max-width: 600px;
+      margin: auto;
     }
   </style>
 </head>
 <body>
-  <h1>OR Equipment Tracker</h1>
-
-  <label for="location-select">Select a Location:</label>
-  <select id="location-select"></select>
-
-  <div class="equipment-list" id="equipment-list"></div>
-
-  <div class="details" id="equipment-details" style="display: none">
-    <h3>Edit Equipment Details</h3>
-    <label for="edit-asset">KN #</label>
-    <input id="edit-asset">
-    <label for="edit-manufacturer">Manufacturer</label>
-    <input id="edit-manufacturer">
-    <label for="edit-model">Model Number</label>
-    <input id="edit-model">
-    <label for="edit-serial">Serial Number</label>
-    <input id="edit-serial">
-    <label for="edit-description">Description</label>
-    <input id="edit-description">
-    <label for="edit-location">Location</label>
-    <input id="edit-location">
-    <label for="edit-notes">Item Notes</label>
-    <textarea id="edit-notes"></textarea>
-    <div class="notes" id="model-notes"></div>
-    <div class="notes" id="location-notes"></div>
-    <button onclick="saveEdits()">Save</button>
+  <div class="container">
+    <h1>OR Equipment Tracker</h1>
+    <a href="locations.html">Equipment by Location</a>
+    <a href="search-serial.html">Search by Serial #</a>
+    <a href="search-kn.html">Search by KN Number</a>
   </div>
-
-  <button onclick="downloadJson()">Download Updated JSON</button>
-
-  <script>
-    let data = [];
-    let currentIndex = -1;
-    const modelNotes = {};
-    const locationNotes = {};
-
-    fetch('data.json')
-      .then(res => {
-        if (!res.ok) throw new Error('Failed to load data.json');
-        return res.json();
-      })
-      .then(json => {
-        data = json;
-        buildNoteIndexes();
-        populateLocations();
-      })
-      .catch(err => {
-        console.error('Error loading data.json:', err);
-        alert('Could not load equipment data. Check the browser console.');
-      });
-
-    function buildNoteIndexes() {
-      data.forEach(item => {
-        if (item["Model Notes"]) {
-          modelNotes[item["Model Number"]] = item["Model Notes"];
-        }
-        if (item["Location Notes"]) {
-          locationNotes[item["Location"]] = item["Location Notes"];
-        }
-      });
-    }
-
-    function populateLocations() {
-      const select = document.getElementById('location-select');
-      const locationMap = new Map();
-
-      data.forEach(item => {
-        const loc = item["Location"];
-        const sort = parseInt(item["Location Sort"] || 9999);
-        if (!locationMap.has(loc)) {
-          locationMap.set(loc, sort);
-        }
-      });
-
-      const sortedLocations = [...locationMap.entries()].sort((a, b) => a[1] - b[1]);
-
-      sortedLocations.forEach(([loc]) => {
-        const option = document.createElement('option');
-        option.value = loc;
-        option.textContent = loc;
-        select.appendChild(option);
-      });
-
-      select.onchange = () => displayEquipment(select.value);
-    }
-
-    function displayEquipment(location) {
-      const container = document.getElementById('equipment-list');
-      container.innerHTML = '';
-      data.forEach((item, index) => {
-        if (item["Location"] === location) {
-          const div = document.createElement('div');
-          div.className = 'equipment-item';
-          div.textContent = `${item["KN #"]} - ${item["Description"]}`;
-          div.onclick = () => showDetails(index);
-          container.appendChild(div);
-        }
-      });
-    }
-
-    function showDetails(index) {
-      currentIndex = index;
-      const item = data[index];
-      document.getElementById('edit-asset').value = item["KN #"] || '';
-      document.getElementById('edit-manufacturer').value = item["Manufacturer"] || '';
-      document.getElementById('edit-model').value = item["Model Number"] || '';
-      document.getElementById('edit-serial').value = item["Serial Number"] || '';
-      document.getElementById('edit-description').value = item["Description"] || '';
-      document.getElementById('edit-location').value = item["Location"] || '';
-      document.getElementById('edit-notes').value = item["Notes"] || '';
-      document.getElementById('model-notes').textContent = modelNotes[item["Model Number"]] || '';
-      document.getElementById('location-notes').textContent = locationNotes[item["Location"]] || '';
-      document.getElementById('equipment-details').style.display = 'block';
-    }
-
-    function saveEdits() {
-      const item = data[currentIndex];
-      item["KN #"] = document.getElementById('edit-asset').value;
-      item["Manufacturer"] = document.getElementById('edit-manufacturer').value;
-      item["Model Number"] = document.getElementById('edit-model').value;
-      item["Serial Number"] = document.getElementById('edit-serial').value;
-      item["Description"] = document.getElementById('edit-description').value;
-      item["Location"] = document.getElementById('edit-location').value;
-      item["Notes"] = document.getElementById('edit-notes').value;
-      displayEquipment(item["Location"]);
-      document.getElementById('equipment-details').style.display = 'none';
-    }
-
-    function downloadJson() {
-      const blob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
-      const url = URL.createObjectURL(blob);
-      const a = document.createElement('a');
-      a.href = url;
-      a.download = 'updated_data.json';
-      a.click();
-      URL.revokeObjectURL(url);
-    }
-  </script>
 </body>
 </html>

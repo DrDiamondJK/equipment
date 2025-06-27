@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Search by Serial #</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 1em;
+      background: #f2f2f2;
+    }
+    input, button, a {
+      font-size: 1em;
+      margin: 0.5em 0;
+      display: block;
+    }
+    .result, .details {
+      background: white;
+      padding: 1em;
+      border-radius: 0.5em;
+      margin-top: 1em;
+    }
+    label {
+      font-size: 0.9em;
+      margin-top: 0.5em;
+    }
+    textarea, input {
+      width: 100%;
+      margin-bottom: 0.5em;
+    }
+  </style>
+</head>
+<body>
+  <a href="index.html">Back to Home</a>
+  <h1>Search by Serial Number</h1>
+  <input type="text" id="search-input" placeholder="Enter Serial Number">
+  <button onclick="searchBySerial()">Search</button>
+
+  <div id="result" class="result" style="display: none"></div>
+
+  <script>
+    let data = [];
+
+    function loadLocalData() {
+      const stored = localStorage.getItem('equipmentData');
+      if (stored) {
+        try {
+          return JSON.parse(stored);
+        } catch {
+          return [];
+        }
+      }
+      return [];
+    }
+
+    function renderResult(item) {
+      const div = document.getElementById('result');
+      div.innerHTML = `
+        <h3>${item["Description"]}</h3>
+        <p><strong>KN #:</strong> ${item["KN #"]}</p>
+        <p><strong>Manufacturer:</strong> ${item["Manufacturer"]}</p>
+        <p><strong>Model Number:</strong> ${item["Model Number"]}</p>
+        <p><strong>Serial Number:</strong> ${item["Serial Number"]}</p>
+        <p><strong>Location:</strong> ${item["Location"]}</p>
+        <p><strong>Notes:</strong><br>${item["Notes"] || ''}</p>
+        <p><strong>Model Notes:</strong><br>${item["Model Notes"] || ''}</p>
+        <p><strong>Location Notes:</strong><br>${item["Location Notes"] || ''}</p>
+      `;
+      div.style.display = 'block';
+    }
+
+   function searchBySerial() {
+  const query = document.getElementById('search-input').value.trim().toLowerCase();
+  if (!query) return;
+  const found = data.find(item => 
+    (item["Serial Number"] || '').toLowerCase().trim() === query
+  );
+  const div = document.getElementById('result');
+  if (found) {
+    renderResult(found);
+  } else {
+    div.innerHTML = '<p>No equipment found with that serial number.</p>';
+    div.style.display = 'block';
+  }
+}
+
+    fetch('data.json')
+      .then(res => res.json())
+      .then(json => {
+        const localData = loadLocalData();
+        data = localData || json;
+      })
+      .catch(err => {
+        console.error('Failed to load data.json', err);
+        alert('Could not load equipment data.');
+      });
+  </script>
+</body>
+</html>

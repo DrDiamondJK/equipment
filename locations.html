@@ -1,0 +1,209 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OR Equipment Tracker</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      padding: 1em;
+      background: #f2f2f2;
+    }
+    select, button, a {
+      font-size: 1em;
+      margin-bottom: 1em;
+      display: block;
+    }
+    .equipment-list, .details {
+      background: white;
+      padding: 1em;
+      border-radius: 0.5em;
+      margin-bottom: 1em;
+    }
+    .equipment-item {
+      padding: 0.5em;
+      border-bottom: 1px solid #ccc;
+      cursor: pointer;
+    }
+    .equipment-item:hover {
+      background: #eef;
+    }
+    .details label {
+      font-size: 0.75em;
+      display: block;
+      margin-top: 0.5em;
+    }
+    .details input, .details textarea {
+      width: 100%;
+      margin-bottom: 0.5em;
+    }
+    .notes {
+      font-size: 0.85em;
+      background: #ffffcc;
+      padding: 0.5em;
+      border-radius: 0.25em;
+      margin-top: 0.5em;
+    }
+  </style>
+</head>
+<body>
+  <h1>OR Equipment Tracker</h1>  <nav>
+    <a href="search-serial.html">Search by Serial #</a>
+    <a href="search-kn.html">Search by KN Number</a>
+  </nav><label for="location-select">Select a Location:</label> <select id="location-select"></select>
+
+  <div class="equipment-list" id="equipment-list"></div>  <div class="details" id="equipment-details" style="display: none">
+    <h3>Edit Equipment Details</h3>
+    <label for="edit-asset">KN #</label>
+    <input id="edit-asset">
+    <label for="edit-manufacturer">Manufacturer</label>
+    <input id="edit-manufacturer">
+    <label for="edit-model">Model Number</label>
+    <input id="edit-model">
+    <label for="edit-serial">Serial Number</label>
+    <input id="edit-serial">
+    <label for="edit-description">Description</label>
+    <input id="edit-description">
+    <label for="edit-location">Location</label>
+    <input id="edit-location">
+    <label for="edit-notes">Item Notes</label>
+    <textarea id="edit-notes"></textarea>
+    <label for="edit-model-notes">Model Notes</label>
+    <textarea id="edit-model-notes"></textarea>
+    <label for="edit-location-notes">Location Notes</label>
+    <textarea id="edit-location-notes"></textarea>
+    <button onclick="saveEdits()">Save</button>
+  </div>  <script>
+    let data = [];
+    let currentIndex = -1;
+    const modelNotes = {};
+    const locationNotes = {};
+
+    function loadLocalData() {
+      const stored = localStorage.getItem('equipmentData');
+      if (stored) {
+        try {
+          return JSON.parse(stored);
+        } catch (e) {
+          console.warn('Invalid JSON in localStorage');
+        }
+      }
+      return null;
+    }
+
+    function saveLocalData() {
+      localStorage.setItem('equipmentData', JSON.stringify(data));
+    }
+
+    fetch('data.json')
+      .then(res => {
+        if (!res.ok) throw new Error('Failed to load data.json');
+        return res.json();
+      })
+      .then(json => {
+        const localData = loadLocalData();
+        data = localData || json;
+        buildNoteIndexes();
+        populateLocations();
+      })
+      .catch(err => {
+        console.error('Error loading data.json:', err);
+        alert('Could not load equipment data. Check the browser console.');
+      });
+
+    function buildNoteIndexes() {
+      Object.keys(modelNotes).forEach(k => delete modelNotes[k]);
+      Object.keys(locationNotes).forEach(k => delete locationNotes[k]);
+      data.forEach(item => {
+        if (item["Model Notes"]) {
+          modelNotes[item["Model Number"]] = item["Model Notes"];
+        }
+        if (item["Location Notes"]) {
+          locationNotes[item["Location"]] = item["Location Notes"];
+        }
+      });
+    }
+
+    function populateLocations() {
+      const select = document.getElementById('location-select');
+      const locationMap = new Map();
+
+      data.forEach(item => {
+        const loc = item["Location"];
+        const sort = parseInt(item["Location Sort"] || 9999);
+        if (!locationMap.has(loc)) {
+          locationMap.set(loc, sort);
+        }
+      });
+
+      const sortedLocations = [...locationMap.entries()].sort((a, b) => a[1] - b[1]);
+
+      sortedLocations.forEach(([loc]) => {
+        const option = document.createElement('option');
+        option.value = loc;
+        option.textContent = loc;
+        select.appendChild(option);
+      });
+
+      select.onchange = () => displayEquipment(select.value);
+    }
+
+    function displayEquipment(location) {
+      const container = document.getElementById('equipment-list');
+      container.innerHTML = '';
+      data.forEach((item, index) => {
+        if (item["Location"] === location) {
+          const div = document.createElement('div');
+          div.className = 'equipment-item';
+          div.textContent = `${item["KN #"]} - ${item["Description"]}`;
+          div.onclick = () => showDetails(index);
+          container.appendChild(div);
+        }
+      });
+    }
+
+    function showDetails(index) {
+      currentIndex = index;
+      const item = data[index];
+      document.getElementById('edit-asset').value = item["KN #"] || '';
+      document.getElementById('edit-manufacturer').value = item["Manufacturer"] || '';
+      document.getElementById('edit-model').value = item["Model Number"] || '';
+      document.getElementById('edit-serial').value = item["Serial Number"] || '';
+      document.getElementById('edit-description').value = item["Description"] || '';
+      document.getElementById('edit-location').value = item["Location"] || '';
+      document.getElementById('edit-notes').value = item["Notes"] || '';
+      document.getElementById('edit-model-notes').value = modelNotes[item["Model Number"]] || '';
+      document.getElementById('edit-location-notes').value = locationNotes[item["Location"]] || '';
+      document.getElementById('equipment-details').style.display = 'block';
+    }
+
+    function saveEdits() {
+      const item = data[currentIndex];
+      const model = document.getElementById('edit-model').value;
+      const location = document.getElementById('edit-location').value;
+
+      item["KN #"] = document.getElementById('edit-asset').value;
+      item["Manufacturer"] = document.getElementById('edit-manufacturer').value;
+      item["Model Number"] = model;
+      item["Serial Number"] = document.getElementById('edit-serial').value;
+      item["Description"] = document.getElementById('edit-description').value;
+      item["Location"] = location;
+      item["Notes"] = document.getElementById('edit-notes').value;
+
+      const sharedModelNotes = document.getElementById('edit-model-notes').value;
+      const sharedLocationNotes = document.getElementById('edit-location-notes').value;
+
+      modelNotes[model] = sharedModelNotes;
+      locationNotes[location] = sharedLocationNotes;
+
+      data.forEach(e => {
+        if (e["Model Number"] === model) e["Model Notes"] = sharedModelNotes;
+        if (e["Location"] === location) e["Location Notes"] = sharedLocationNotes;
+      });
+
+      saveLocalData();
+      displayEquipment(location);
+      document.getElementById('equipment-details').style.display = 'none';
+    }
+  </script></body>
+</html>
